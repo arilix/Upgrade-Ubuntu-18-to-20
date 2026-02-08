@@ -147,7 +147,7 @@ sudo apt-get autoremove
 sudo rm -rf /usr/share/vulkan/icd.d
 ```
 
-![Remove Obsolete](Media/RemoveObsoleteUb20.webp)
+![Remove Obsolete](Media/RepoUb20.webp)
 
 ---
 
