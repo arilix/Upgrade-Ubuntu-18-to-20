@@ -12,7 +12,7 @@ Jetson Nano ships with Ubuntu 18.04. For requirements such as **Python 3.8**, **
 
 ## Initial State
 
-![Ubuntu 18.04](Media/ReleaseUb20.webp)
+![Ubuntu 18.04](Media/SoftwareUb20.webp)
 
 ---
 
