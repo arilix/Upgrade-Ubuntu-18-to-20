@@ -250,5 +250,5 @@ This script will:
 
 Ubuntu 20.04 successfully running on Jetson Nano.
 
-![Final Success](Media/SuccessForceUb20.webp)
+![Final Success](Media/Gcc9Ub20.png)
 
